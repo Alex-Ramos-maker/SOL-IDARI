@@ -6,4 +6,5 @@ A més, encaixa idealment amb la filosofia de la cultura maker i la fabricació 
 
 Llicència Creative Commons: CC BY-NC-SA (Reconeixement - NoComercial - CompartirIgual).
 <img width="925" height="83" alt="image" src="https://github.com/user-attachments/assets/f3195ca3-4b5c-4152-be8a-9e9cc11805ee" />
+
 https://creativecommons.org/licenses/by-nc-sa/4.0/
